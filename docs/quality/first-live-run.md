@@ -2,6 +2,8 @@
 
 Дата: 2026-11-05.
 
+Модель: `google/gemini-3.1-flash-lite` через настроенный OpenAI-compatible endpoint.
+
 Результат Testo 830-T1 до усиления prompt и настройки логирования:
 
 ![Первый live-запуск для Testo 830-T1](testo_830_t1_first_live_run.png)

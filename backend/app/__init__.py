@@ -1,0 +1,2 @@
+"""Product card API application."""
+
